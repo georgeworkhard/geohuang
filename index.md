@@ -6,7 +6,7 @@ tagline: tech, travelling
 {% include JB/setup %}
 
 
-<img src="./assets/themes/imgs/1627385056.jpg" width="630" height="880" alt="photos"/>
+<img src="./assets/themes/imgs/1627385056.jpg" style="zoom:20%" alt="photos"/>
 
 
 SDE focusing on backend development.
