@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Coming soon!
-tagline: coming soon
+title: George Huang
+tagline: tech, travelling
 ---
 {% include JB/setup %}
 
