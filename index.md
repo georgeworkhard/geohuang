@@ -5,6 +5,10 @@ tagline: tech, travelling
 ---
 {% include JB/setup %}
 
+
+<img src="./assets/themes/imgs/1627385056.jpg" width="630" height="880" alt="photos"/>
+
+
 SDE focusing on backend development.
 I write articles in tech, travelling, life etc. 
 - I use this page to practice concise, persuative writing. 
