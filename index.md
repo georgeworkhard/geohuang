@@ -28,9 +28,5 @@ Here's the "recent posts list".
 
 ## Coming-soon
 
-Planning to write in articles related to these topics in the near future, guess I will pick up one topic from the list biweekly:
-
-- Doge source code 
-- Java integration/unit test best practice summary
-- Whats new in Java11
+Planning to write in articles related to these topics in the near future.
 
